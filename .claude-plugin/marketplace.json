@@ -1,5 +1,10 @@
 {
   "name": "claude-mods",
   "owner": { "name": "syzygy2005" },
-  "plugins": [{ "name": "copy-gate", "source": "./copy-gate" }]
+  "plugins": [
+    { "name": "copy-gate", "source": "./copy-gate" },
+    { "name": "confirm-flags", "source": "./confirm-flags" },
+    { "name": "shop-hours", "source": "./shop-hours" },
+    { "name": "econolube-look", "source": "./econolube-look" }
+  ]
 }

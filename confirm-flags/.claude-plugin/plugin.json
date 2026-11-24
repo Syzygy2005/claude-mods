@@ -1,0 +1,6 @@
+{
+  "name": "confirm-flags",
+  "version": "0.1.0",
+  "description": "Shows the open [CONFIRM] flags from Claude's last reply in a row above the prompt. Click one to answer it.",
+  "types": "./types/index.d.ts"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "shop-hours",
+  "version": "0.1.0",
+  "description": "Status line showing whether the mechanical side is open now, and any Alberta stat holiday closure in the next two weeks.",
+  "userConfig": {
+    "opensAt": {
+      "type": "string",
+      "title": "Mechanical opens at",
+      "description": "24-hour time, like 08:00. Leave blank to show open or closed by day only.",
+      "default": ""
+    },
+    "closesAt": {
+      "type": "string",
+      "title": "Mechanical closes at",
+      "description": "24-hour time, like 18:00.",
+      "default": ""
+    }
+  }
+}
