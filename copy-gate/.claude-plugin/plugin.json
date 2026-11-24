@@ -1,0 +1,6 @@
+{
+  "name": "copy-gate",
+  "version": "0.1.0",
+  "description": "Refuses customer emails that break the shop's writing rules: em-dashes, tire warranty language, open [CONFIRM] flags, prices without the pricing skill.",
+  "types": "./types/index.d.ts"
+}

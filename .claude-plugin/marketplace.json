@@ -1,0 +1,5 @@
+{
+  "name": "claude-mods",
+  "owner": { "name": "syzygy2005" },
+  "plugins": [{ "name": "copy-gate", "source": "./copy-gate" }]
+}
